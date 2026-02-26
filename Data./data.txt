@@ -1,0 +1,4 @@
+Vitamin C Serum, Garnier      , 300, 1000, France
+Skin Cleanser  , Cetaphil     , 200, 280, Switzerland
+Sunscreen      , Aqualogica   , 200, 700, India
+Moisturizer    , Neutrogena   , 150, 2400, United States
